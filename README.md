@@ -34,3 +34,20 @@
 ### Deletar
 
 ![delete](https://github.com/user-attachments/assets/c1a26599-65e6-4d9c-9ee2-2bf533fffb68)
+
+
+## JWT
+
+### Login JWT
+![login](https://github.com/user-attachments/assets/396df15e-f587-4199-9816-66dadd21fe2d)
+
+### Deletar sem token
+![unauthorized_delete](https://github.com/user-attachments/assets/517f367c-e448-44fc-a2db-1d9f17e3e893)
+
+### Put sem token
+
+![unauthorized_put](https://github.com/user-attachments/assets/f2905a70-e04b-4625-877a-32310eacdd6a)
+
+### Deletar com token
+![delete_with_token](https://github.com/user-attachments/assets/bbfea643-4810-4b1e-9d00-1922cfe65379)
+
